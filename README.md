@@ -1,7 +1,9 @@
 # CmdTool
 
 CmdTool Version-1.0 created by MathInDOS
+
 Copyright (C) 2018-2020 MathInDOS
+
 
 # What is CmdTool?
 
