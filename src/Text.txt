@@ -1,0 +1,1 @@
+gcc filename -o output -Os -luser64 -m32
